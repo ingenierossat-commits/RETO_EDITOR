@@ -1,0 +1,15 @@
+{
+  "name": "RETO · EDITOR",
+  "short_name": "RETO EDITOR",
+  "description": "Editor de contenido de El Reto del Saber",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    { "src": "ICONS/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "ICONS/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "ICONS/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
